@@ -1,3 +1,3 @@
-### どうも
+im like a duck in a pond but the pond is code
 
-低水準プログラミング、日本語が好き。
+[krashanoff.com](https://krashanoff.com/)
